@@ -1,0 +1,14 @@
+-rootPath
+D:/GIT Repos/IIT_B/MiniGCS
+-cmake-output
+-output-file
+D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMiniGCS.cmake
+-importPath
+D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/MiniGCS
+-importPath
+D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug
+-importPath
+D:/Qt/6.5.0/mingw_64/./qml
+-qrcFiles
+D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.rcc/qmake_MiniGCS.qrc
+D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/.rcc/appMiniGCS_raw_qml_0.qrc

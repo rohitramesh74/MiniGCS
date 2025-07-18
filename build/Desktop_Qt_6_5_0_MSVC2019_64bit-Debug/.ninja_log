@@ -1,0 +1,37 @@
+# ninja log v6
+68	154	7745715083424288	MiniGCS/Main.qml	24a6534b9c285198
+68	154	7745715083424288	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/MiniGCS/Main.qml	24a6534b9c285198
+82	1567	7745715096752828	.qt_plugins/Qt6_QmlPlugins_Imports_appMiniGCS.cmake	b59d2ef6e7507d6a
+82	1567	7745715096752828	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appMiniGCS.cmake	b59d2ef6e7507d6a
+1567	1966	7745715101100399	.rcc/qmlcache/appMiniGCS_qmlcache_loader.cpp	30ae9d84e9719856
+1567	1966	7745715101100399	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qmlcache/appMiniGCS_qmlcache_loader.cpp	30ae9d84e9719856
+1967	2238	7745715103131123	appMiniGCS_autogen/timestamp	e5811a68e528c7ab
+1967	2238	7745715103131123	appMiniGCS_autogen/mocs_compilation.cpp	e5811a68e528c7ab
+1967	2238	7745715103131123	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/appMiniGCS_autogen/timestamp	e5811a68e528c7ab
+1967	2238	7745715103131123	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/appMiniGCS_autogen/mocs_compilation.cpp	e5811a68e528c7ab
+2259	2541	7745715107264124	.rcc/qrc_qmake_MiniGCS.cpp	c02aaa08b92b4740
+2259	2541	7745715107264124	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qrc_qmake_MiniGCS.cpp	c02aaa08b92b4740
+2279	2545	7745715107264124	.rcc/qrc_appMiniGCS_raw_qml_0.cpp	b3f159b0d9af6896
+2279	2545	7745715107264124	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qrc_appMiniGCS_raw_qml_0.cpp	b3f159b0d9af6896
+2251	2702	7745715108764637	meta_types/appMiniGCS_json_file_list.txt	b91894ed1ff0722e
+2251	2702	7745715108764637	meta_types/appMiniGCS_json_file_list.txt.timestamp	b91894ed1ff0722e
+2251	2702	7745715108764637	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/meta_types/appMiniGCS_json_file_list.txt	b91894ed1ff0722e
+2251	2702	7745715108764637	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/meta_types/appMiniGCS_json_file_list.txt.timestamp	b91894ed1ff0722e
+2702	2817	7745715109931132	meta_types/qt6appminigcs_debug_metatypes.json.gen	7e464cf92205819f
+2702	2817	7745715109931132	meta_types/qt6appminigcs_debug_metatypes.json	7e464cf92205819f
+2702	2817	7745715109931132	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/meta_types/qt6appminigcs_debug_metatypes.json.gen	7e464cf92205819f
+2702	2817	7745715109931132	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/meta_types/qt6appminigcs_debug_metatypes.json	7e464cf92205819f
+2818	3383	7745715114597861	appminigcs_qmltyperegistrations.cpp	e2f2703bdc9b7917
+2818	3383	7745715114597861	MiniGCS/appMiniGCS.qmltypes	e2f2703bdc9b7917
+2818	3383	7745715114597861	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/appminigcs_qmltyperegistrations.cpp	e2f2703bdc9b7917
+2818	3383	7745715114597861	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/MiniGCS/appMiniGCS.qmltypes	e2f2703bdc9b7917
+3383	3832	7745715119775254	.rcc/qmlcache/appMiniGCS_Main_qml.cpp	d295a6f6efe46f67
+3383	3832	7745715119775254	D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qmlcache/appMiniGCS_Main_qml.cpp	d295a6f6efe46f67
+3833	4157	7745715120319601	CMakeFiles/appMiniGCS.dir/appMiniGCS_autogen/mocs_compilation.cpp.obj	d01120ffba29443a
+3851	4243	7745715120439416	CMakeFiles/appMiniGCS.dir/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qrc_qmake_MiniGCS.cpp.obj	f107a9aa5b0fbe57
+4158	4257	7745715123572008	CMakeFiles/appMiniGCS.dir/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qrc_appMiniGCS_raw_qml_0.cpp.obj	796ef8ad586f4800
+3844	9401	7745715120436441	CMakeFiles/appMiniGCS.dir/appminigcs_qmltyperegistrations.cpp.obj	b18fc9a20833a539
+3863	9827	7745715120612979	CMakeFiles/appMiniGCS.dir/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qmlcache/appMiniGCS_Main_qml.cpp.obj	e6e8cebfcd6eb6c4
+3838	10003	7745715120369597	CMakeFiles/appMiniGCS.dir/main.cpp.obj	4f16d90c3c1bb62c
+3857	11187	7745715120439416	CMakeFiles/appMiniGCS.dir/build/Desktop_Qt_6_5_0_MSVC2019_64bit-Debug/.rcc/qmlcache/appMiniGCS_qmlcache_loader.cpp.obj	953d83460f868725
+11188	12811	7745715193866947	appMiniGCS.exe	293b4ba707555e93

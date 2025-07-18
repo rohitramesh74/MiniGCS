@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/MiniGCS">D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug/MiniGCS</file>
+
+  </qresource>
+</RCC>

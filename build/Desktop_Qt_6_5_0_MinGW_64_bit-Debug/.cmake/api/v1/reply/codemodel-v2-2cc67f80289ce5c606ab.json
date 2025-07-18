@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-aaac3fa101b34295c5ad.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MiniGCS",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-b6e1a358386441b6aa05.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-4ff3f8ff8080f440d8dd.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-0461ab2a7e4b5eef419e.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-7fba6752e1dcc8cb93ba.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS-Debug-f68b9605fb90df62cd44.json",
+					"name" : "appMiniGCS",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_autogen-Debug-80f3d2aff144602ac0d5.json",
+					"name" : "appMiniGCS_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_autogen_timestamp_deps-Debug-8cce200d02f172a66c9f.json",
+					"name" : "appMiniGCS_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_qmlimportscan-Debug-a686de3ca8c60e9a18a1.json",
+					"name" : "appMiniGCS_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_qmllint-Debug-0227d99fd52a2eaa6908.json",
+					"name" : "appMiniGCS_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_qmllint_json-Debug-65fe00b4e08ed4415131.json",
+					"name" : "appMiniGCS_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_qmllint_module-Debug-ba83840fd2b4d992d465.json",
+					"name" : "appMiniGCS_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_qmltyperegistration-Debug-ca07fc044ef44bcaf6be.json",
+					"name" : "appMiniGCS_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appMiniGCS_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appMiniGCS_tooling-Debug-7c9d5c996fc4799c09b9.json",
+					"name" : "appMiniGCS_tooling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/GIT Repos/IIT_B/MiniGCS/build/Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "D:/GIT Repos/IIT_B/MiniGCS"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

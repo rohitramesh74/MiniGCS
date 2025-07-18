@@ -1,0 +1,5 @@
+module MiniGCS
+typeinfo appMiniGCS.qmltypes
+prefer :/qt/qml/MiniGCS/
+Main 1.0 Main.qml
+
