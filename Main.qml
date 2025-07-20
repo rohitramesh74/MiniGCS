@@ -11,10 +11,10 @@ ApplicationWindow {
 
     property bool showTelemetry: true
     property bool showMap: true
-    property bool isMuted: false
+    property bool isMuted: dashboardController.muted
 
-    property var availableResolutions: videoController.availableResolutions
-    property bool videoHasAudio: videoController.videoHasAudio
+    property var availableResolutions: dashboardController.availableResolutions
+    property bool videoHasAudio: dashboardController.videoHasAudio
 
     // Base Video Layer
     Item {
@@ -72,7 +72,7 @@ ApplicationWindow {
                         textRole: "label"
                         width: 140
                         onActivated: {
-                            videoController.changeResolution(availableResolutions[index].width, availableResolutions[index].height);
+                            dashboardController.changeResolution(availableResolutions[index].width, availableResolutions[index].height);
                         }
                     }
                 }
@@ -88,7 +88,7 @@ ApplicationWindow {
                     visible: videoHasAudio
                     onClicked: {
                         isMuted = !isMuted;
-                        videoController.setMuted(isMuted);
+                        dashboardController.setMuted(isMuted);
                     }
                     width: 100
                 }
