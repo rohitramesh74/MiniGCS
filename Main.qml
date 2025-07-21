@@ -3,6 +3,8 @@ import QtQuick.Controls 6.5
 import QtQuick.Layouts 6.5
 import QtMultimedia 6.5
 
+import MiniGCS 1.0
+
 ApplicationWindow {
     visible: true
     width: 1280
@@ -107,21 +109,29 @@ ApplicationWindow {
         }
 
         // Telemetry Panel - Bottom Left
-        Rectangle {
+        // Rectangle {
+        //     id: telemetryPanel
+        //     visible: showTelemetry
+        //     width: 200; height: 150
+        //     color: "darkred"
+        //     anchors.bottom: parent.bottom
+        //     anchors.left: parent.left
+        //     anchors.margins: 20
+
+        //     Text {
+        //         anchors.centerIn: parent
+        //         text: "Telemetry Panel"
+        //         color: "white"
+        //     }
+        // }
+        TelemetryPanel {
             id: telemetryPanel
             visible: showTelemetry
-            width: 200; height: 150
-            color: "darkred"
             anchors.bottom: parent.bottom
             anchors.left: parent.left
             anchors.margins: 20
-
-            Text {
-                anchors.centerIn: parent
-                text: "Telemetry Panel"
-                color: "white"
-            }
         }
+
 
         // Map Panel - Bottom Right
         Rectangle {
