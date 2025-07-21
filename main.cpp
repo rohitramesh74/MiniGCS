@@ -2,6 +2,12 @@
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
 #include "src/controllers/dashboardcontroller.h"
+#include "src/controllers/videocontroller.h"
+#include <QDebug>
+
+#if QT_CONFIG(permissions)
+#include <QPermission>
+#endif
 
 int main(int argc, char *argv[])
 {
@@ -10,7 +16,20 @@ int main(int argc, char *argv[])
     QQmlApplicationEngine engine;
 
     DashboardController dashboardController;
+    VideoController videoController;
+
     engine.rootContext()->setContextProperty("dashboardController", &dashboardController);
+    engine.rootContext()->setContextProperty("videoController", &videoController);
+
+// #if QT_CONFIG(permissions)
+//     QCameraPermission cameraPermission;
+//     qApp->requestPermission(cameraPermission, [](const QPermission &permission) {
+//         if (permission.status() == Qt::PermissionStatus::Denied)
+//             qDebug() << "Camera Denied";
+//         else
+//             qDebug() << "Camera Permitted";
+//     });
+// #endif
 
     QObject::connect(
         &engine,

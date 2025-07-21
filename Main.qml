@@ -9,61 +9,73 @@ ApplicationWindow {
     height: 720
     title: "Mini Ground Control Station"
 
-    property bool showTelemetry: true
-    property bool showMap: true
-    property bool isMuted: dashboardController.muted
+    // State from DashboardController
+    property bool showTelemetry: dashboardController.showTelemetry
+    property bool showMap: dashboardController.showMap
 
-    property var availableResolutions: dashboardController.availableResolutions
-    property bool videoHasAudio: dashboardController.videoHasAudio
+    // Video + Audio State from VideoController
+    property bool isMuted: videoController.muted
+    property var availableResolutions: videoController.availableResolutions
 
-    // Base Video Layer
-    Item {
-        anchors.fill: parent
+    // Camera Control (Pure QML)
+    property bool cameraActive: true
 
-        Rectangle {
-            anchors.fill: parent
-            color: "black"
-            Text {
-                anchors.centerIn: parent
-                text: "Video Feed Placeholder"
-                color: "white"
-            }
+    CaptureSession {
+        id: captureSession
+        camera: Camera {
+            id: camera
+            active: cameraActive
         }
+        videoOutput: viewfinder
     }
 
-    // Overlay Layer
+    VideoOutput {
+        id: viewfinder
+        anchors.fill: parent
+        // onFrameAvailable: {
+        //     frameCount += 1
+        // }
+    }
+
+    // Overlay Layer for Toolbar & Panels
     Item {
         anchors.fill: parent
 
-        // Styled Toolbar at Top
         ToolBar {
             id: toolbar
             anchors.top: parent.top
             width: parent.width
             height: 40
+
             background: Rectangle {
-                color: "#2c3e50"   // Dark Blue-Grey
+                color: "#2c3e50"
             }
 
             RowLayout {
                 anchors.fill: parent
                 spacing: 4
 
-                // Left Aligned Buttons Group
+                // Left Controls: Panels & Camera
                 RowLayout {
                     Layout.alignment: Qt.AlignLeft
                     spacing: 4
 
                     ToolButton {
                         text: showTelemetry ? "🗖 Telemetry" : "🗕 Telemetry"
-                        onClicked: showTelemetry = !showTelemetry
+                        onClicked: dashboardController.setShowTelemetry(!showTelemetry)
                         width: 120
                     }
 
                     ToolButton {
                         text: showMap ? "🗖 Map" : "🗕 Map"
-                        onClicked: showMap = !showMap
+                        onClicked: dashboardController.setShowMap(!showMap)
                         width: 100
+                    }
+
+                    ToolButton {
+                        text: cameraActive ? "⏹ Stop Camera" : "▶ Start Camera"
+                        onClicked: cameraActive = !cameraActive
+                        width: 120
                     }
 
                     ComboBox {
@@ -72,24 +84,23 @@ ApplicationWindow {
                         textRole: "label"
                         width: 140
                         onActivated: {
-                            dashboardController.changeResolution(availableResolutions[index].width, availableResolutions[index].height);
+                            videoController.changeResolution(
+                                availableResolutions[index].width,
+                                availableResolutions[index].height
+                            )
                         }
                     }
                 }
 
-                // Spacer to push Mute to Right
+                // Spacer
                 Item {
                     Layout.fillWidth: true
                 }
 
-                // Right Aligned Mute Button
+                // Right-Aligned Mute Button
                 ToolButton {
                     text: isMuted ? "🔇 Mute" : "🔊 Unmute"
-                    visible: videoHasAudio
-                    onClicked: {
-                        isMuted = !isMuted;
-                        dashboardController.setMuted(isMuted);
-                    }
+                    onClicked: videoController.setMuted(!isMuted)
                     width: 100
                 }
             }

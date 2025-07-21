@@ -4,37 +4,31 @@
 #pragma once
 
 #include <QObject>
-#include <QVariantList>
 
 class DashboardController : public QObject
 {
     Q_OBJECT
-    Q_PROPERTY(QVariantList availableResolutions READ availableResolutions NOTIFY availableResolutionsChanged)
-    Q_PROPERTY(bool videoHasAudio READ videoHasAudio NOTIFY videoHasAudioChanged)
-    Q_PROPERTY(bool muted READ muted WRITE setMuted NOTIFY mutedChanged)
+
+    Q_PROPERTY(bool showTelemetry READ showTelemetry WRITE setShowTelemetry NOTIFY showTelemetryChanged)
+    Q_PROPERTY(bool showMap READ showMap WRITE setShowMap NOTIFY showMapChanged)
 
 public:
-    explicit DashboardController(QObject *parent = nullptr);
+    explicit DashboardController(QObject* parent = nullptr);
 
-    QVariantList availableResolutions() const;
-    bool videoHasAudio() const;
-    bool muted() const;
-
-    Q_INVOKABLE void changeResolution(int width, int height);
+    bool showTelemetry() const;
+    bool showMap() const;
 
 public slots:
-    void setMuted(bool muted);
+    void setShowTelemetry(bool show);
+    void setShowMap(bool show);
 
 signals:
-    void availableResolutionsChanged();
-    void videoHasAudioChanged();
-    void mutedChanged();
+    void showTelemetryChanged();
+    void showMapChanged();
 
 private:
-    QVariantList m_availableResolutions;
-    bool m_videoHasAudio = true;   // Placeholder
-    bool m_muted = false;
+    bool m_showTelemetry = true;
+    bool m_showMap = true;
 };
-
 
 #endif // DASHBOARDCONTROLLER_H
