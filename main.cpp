@@ -3,6 +3,8 @@
 #include <QQmlContext>
 #include "src/controllers/dashboardcontroller.h"
 #include "src/controllers/videocontroller.h"
+#include "src/controllers/telemetrycontroller.h"
+#include "src/models/telemetrymodel.h"
 #include <QDebug>
 
 #if QT_CONFIG(permissions)
@@ -17,19 +19,12 @@ int main(int argc, char *argv[])
 
     DashboardController dashboardController;
     VideoController videoController;
+    TelemetryController telemetryController;
 
     engine.rootContext()->setContextProperty("dashboardController", &dashboardController);
     engine.rootContext()->setContextProperty("videoController", &videoController);
-
-// #if QT_CONFIG(permissions)
-//     QCameraPermission cameraPermission;
-//     qApp->requestPermission(cameraPermission, [](const QPermission &permission) {
-//         if (permission.status() == Qt::PermissionStatus::Denied)
-//             qDebug() << "Camera Denied";
-//         else
-//             qDebug() << "Camera Permitted";
-//     });
-// #endif
+    engine.rootContext()->setContextProperty("telemetryController", &telemetryController);
+    engine.rootContext()->setContextProperty("telemetryModel", telemetryController.telemetryModel());
 
     QObject::connect(
         &engine,

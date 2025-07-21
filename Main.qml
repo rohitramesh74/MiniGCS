@@ -109,27 +109,19 @@ ApplicationWindow {
         }
 
         // Telemetry Panel - Bottom Left
-        // Rectangle {
-        //     id: telemetryPanel
-        //     visible: showTelemetry
-        //     width: 200; height: 150
-        //     color: "darkred"
-        //     anchors.bottom: parent.bottom
-        //     anchors.left: parent.left
-        //     anchors.margins: 20
-
-        //     Text {
-        //         anchors.centerIn: parent
-        //         text: "Telemetry Panel"
-        //         color: "white"
-        //     }
-        // }
         TelemetryPanel {
             id: telemetryPanel
             visible: showTelemetry
             anchors.bottom: parent.bottom
             anchors.left: parent.left
             anchors.margins: 20
+
+            latitudeText: telemetryController.latitude.toFixed(6)
+            longitudeText: telemetryController.longitude.toFixed(6)
+            altitudeText: telemetryController.altitude.toFixed(2) + " m"
+            yawText: telemetryController.yaw.toFixed(2) + "°"
+            groundSpeedText: telemetryController.groundSpeed.toFixed(2) + " m/s"
+            batteryValue: telemetryController.battery
         }
 
 
@@ -149,5 +141,9 @@ ApplicationWindow {
                 color: "white"
             }
         }
+    }
+
+    Component.onCompleted: {
+        telemetryController.startTelemetry("D:/GIT Repos/IIT_B/MiniGCS/data/telemetry_sample.json")
     }
 }

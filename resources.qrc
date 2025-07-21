@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/telemetry_sample.json</file>
+    </qresource>
+</RCC>

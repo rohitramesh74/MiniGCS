@@ -1,0 +1,2702 @@
+[
+  {
+    "timestamp": 0,
+    "latitude": 12.9716,
+    "longitude": 77.5946,
+    "altitude": 500.0,
+    "yaw": 0,
+    "groundSpeed": 10.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 100,
+    "latitude": 12.9717,
+    "longitude": 77.5947,
+    "altitude": 500.5,
+    "yaw": 1,
+    "groundSpeed": 10.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 200,
+    "latitude": 12.9718,
+    "longitude": 77.5948,
+    "altitude": 501.0,
+    "yaw": 2,
+    "groundSpeed": 10.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 300,
+    "latitude": 12.9719,
+    "longitude": 77.5949,
+    "altitude": 501.5,
+    "yaw": 3,
+    "groundSpeed": 10.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 400,
+    "latitude": 12.972,
+    "longitude": 77.595,
+    "altitude": 502.0,
+    "yaw": 4,
+    "groundSpeed": 10.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 500,
+    "latitude": 12.9721,
+    "longitude": 77.5951,
+    "altitude": 502.5,
+    "yaw": 5,
+    "groundSpeed": 11.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 600,
+    "latitude": 12.9722,
+    "longitude": 77.5952,
+    "altitude": 503.0,
+    "yaw": 6,
+    "groundSpeed": 11.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 700,
+    "latitude": 12.9723,
+    "longitude": 77.5953,
+    "altitude": 503.5,
+    "yaw": 7,
+    "groundSpeed": 11.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 800,
+    "latitude": 12.9724,
+    "longitude": 77.5954,
+    "altitude": 504.0,
+    "yaw": 8,
+    "groundSpeed": 11.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 900,
+    "latitude": 12.9725,
+    "longitude": 77.5955,
+    "altitude": 504.5,
+    "yaw": 9,
+    "groundSpeed": 11.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 1000,
+    "latitude": 12.9726,
+    "longitude": 77.5956,
+    "altitude": 505.0,
+    "yaw": 10,
+    "groundSpeed": 12.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 1100,
+    "latitude": 12.9727,
+    "longitude": 77.5957,
+    "altitude": 505.5,
+    "yaw": 11,
+    "groundSpeed": 12.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 1200,
+    "latitude": 12.9728,
+    "longitude": 77.5958,
+    "altitude": 506.0,
+    "yaw": 12,
+    "groundSpeed": 12.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 1300,
+    "latitude": 12.9729,
+    "longitude": 77.5959,
+    "altitude": 506.5,
+    "yaw": 13,
+    "groundSpeed": 12.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 1400,
+    "latitude": 12.973,
+    "longitude": 77.596,
+    "altitude": 507.0,
+    "yaw": 14,
+    "groundSpeed": 12.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 1500,
+    "latitude": 12.9731,
+    "longitude": 77.5961,
+    "altitude": 507.5,
+    "yaw": 15,
+    "groundSpeed": 13.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 1600,
+    "latitude": 12.9732,
+    "longitude": 77.5962,
+    "altitude": 508.0,
+    "yaw": 16,
+    "groundSpeed": 13.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 1700,
+    "latitude": 12.9733,
+    "longitude": 77.5963,
+    "altitude": 508.5,
+    "yaw": 17,
+    "groundSpeed": 13.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 1800,
+    "latitude": 12.9734,
+    "longitude": 77.5964,
+    "altitude": 509.0,
+    "yaw": 18,
+    "groundSpeed": 13.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 1900,
+    "latitude": 12.9735,
+    "longitude": 77.5965,
+    "altitude": 509.5,
+    "yaw": 19,
+    "groundSpeed": 13.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 2000,
+    "latitude": 12.9736,
+    "longitude": 77.5966,
+    "altitude": 510.0,
+    "yaw": 20,
+    "groundSpeed": 14.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 2100,
+    "latitude": 12.9737,
+    "longitude": 77.5967,
+    "altitude": 510.5,
+    "yaw": 21,
+    "groundSpeed": 14.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 2200,
+    "latitude": 12.9738,
+    "longitude": 77.5968,
+    "altitude": 511.0,
+    "yaw": 22,
+    "groundSpeed": 14.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 2300,
+    "latitude": 12.9739,
+    "longitude": 77.5969,
+    "altitude": 511.5,
+    "yaw": 23,
+    "groundSpeed": 14.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 2400,
+    "latitude": 12.974,
+    "longitude": 77.597,
+    "altitude": 512.0,
+    "yaw": 24,
+    "groundSpeed": 14.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 2500,
+    "latitude": 12.9741,
+    "longitude": 77.5971,
+    "altitude": 512.5,
+    "yaw": 25,
+    "groundSpeed": 15.0,
+    "battery": 100
+  },
+  {
+    "timestamp": 2600,
+    "latitude": 12.9742,
+    "longitude": 77.5972,
+    "altitude": 513.0,
+    "yaw": 26,
+    "groundSpeed": 15.2,
+    "battery": 100
+  },
+  {
+    "timestamp": 2700,
+    "latitude": 12.9743,
+    "longitude": 77.5973,
+    "altitude": 513.5,
+    "yaw": 27,
+    "groundSpeed": 15.4,
+    "battery": 100
+  },
+  {
+    "timestamp": 2800,
+    "latitude": 12.9744,
+    "longitude": 77.5974,
+    "altitude": 514.0,
+    "yaw": 28,
+    "groundSpeed": 15.6,
+    "battery": 100
+  },
+  {
+    "timestamp": 2900,
+    "latitude": 12.9745,
+    "longitude": 77.5975,
+    "altitude": 514.5,
+    "yaw": 29,
+    "groundSpeed": 15.8,
+    "battery": 100
+  },
+  {
+    "timestamp": 3000,
+    "latitude": 12.9746,
+    "longitude": 77.5976,
+    "altitude": 515.0,
+    "yaw": 30,
+    "groundSpeed": 16.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 3100,
+    "latitude": 12.9747,
+    "longitude": 77.5977,
+    "altitude": 515.5,
+    "yaw": 31,
+    "groundSpeed": 16.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 3200,
+    "latitude": 12.9748,
+    "longitude": 77.5978,
+    "altitude": 516.0,
+    "yaw": 32,
+    "groundSpeed": 16.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 3300,
+    "latitude": 12.9749,
+    "longitude": 77.5979,
+    "altitude": 516.5,
+    "yaw": 33,
+    "groundSpeed": 16.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 3400,
+    "latitude": 12.975,
+    "longitude": 77.598,
+    "altitude": 517.0,
+    "yaw": 34,
+    "groundSpeed": 16.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 3500,
+    "latitude": 12.9751,
+    "longitude": 77.5981,
+    "altitude": 517.5,
+    "yaw": 35,
+    "groundSpeed": 17.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 3600,
+    "latitude": 12.9752,
+    "longitude": 77.5982,
+    "altitude": 518.0,
+    "yaw": 36,
+    "groundSpeed": 17.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 3700,
+    "latitude": 12.9753,
+    "longitude": 77.5983,
+    "altitude": 518.5,
+    "yaw": 37,
+    "groundSpeed": 17.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 3800,
+    "latitude": 12.9754,
+    "longitude": 77.5984,
+    "altitude": 519.0,
+    "yaw": 38,
+    "groundSpeed": 17.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 3900,
+    "latitude": 12.9755,
+    "longitude": 77.5985,
+    "altitude": 519.5,
+    "yaw": 39,
+    "groundSpeed": 17.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 4000,
+    "latitude": 12.9756,
+    "longitude": 77.5986,
+    "altitude": 520.0,
+    "yaw": 40,
+    "groundSpeed": 18.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 4100,
+    "latitude": 12.9757,
+    "longitude": 77.5987,
+    "altitude": 520.5,
+    "yaw": 41,
+    "groundSpeed": 18.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 4200,
+    "latitude": 12.9758,
+    "longitude": 77.5988,
+    "altitude": 521.0,
+    "yaw": 42,
+    "groundSpeed": 18.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 4300,
+    "latitude": 12.9759,
+    "longitude": 77.5989,
+    "altitude": 521.5,
+    "yaw": 43,
+    "groundSpeed": 18.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 4400,
+    "latitude": 12.976,
+    "longitude": 77.599,
+    "altitude": 522.0,
+    "yaw": 44,
+    "groundSpeed": 18.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 4500,
+    "latitude": 12.9761,
+    "longitude": 77.5991,
+    "altitude": 522.5,
+    "yaw": 45,
+    "groundSpeed": 19.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 4600,
+    "latitude": 12.9762,
+    "longitude": 77.5992,
+    "altitude": 523.0,
+    "yaw": 46,
+    "groundSpeed": 19.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 4700,
+    "latitude": 12.9763,
+    "longitude": 77.5993,
+    "altitude": 523.5,
+    "yaw": 47,
+    "groundSpeed": 19.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 4800,
+    "latitude": 12.9764,
+    "longitude": 77.5994,
+    "altitude": 524.0,
+    "yaw": 48,
+    "groundSpeed": 19.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 4900,
+    "latitude": 12.9765,
+    "longitude": 77.5995,
+    "altitude": 524.5,
+    "yaw": 49,
+    "groundSpeed": 19.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 5000,
+    "latitude": 12.9766,
+    "longitude": 77.5996,
+    "altitude": 525.0,
+    "yaw": 50,
+    "groundSpeed": 20.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 5100,
+    "latitude": 12.9767,
+    "longitude": 77.5997,
+    "altitude": 525.5,
+    "yaw": 51,
+    "groundSpeed": 20.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 5200,
+    "latitude": 12.9768,
+    "longitude": 77.5998,
+    "altitude": 526.0,
+    "yaw": 52,
+    "groundSpeed": 20.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 5300,
+    "latitude": 12.9769,
+    "longitude": 77.5999,
+    "altitude": 526.5,
+    "yaw": 53,
+    "groundSpeed": 20.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 5400,
+    "latitude": 12.977,
+    "longitude": 77.6,
+    "altitude": 527.0,
+    "yaw": 54,
+    "groundSpeed": 20.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 5500,
+    "latitude": 12.9771,
+    "longitude": 77.6001,
+    "altitude": 527.5,
+    "yaw": 55,
+    "groundSpeed": 21.0,
+    "battery": 99
+  },
+  {
+    "timestamp": 5600,
+    "latitude": 12.9772,
+    "longitude": 77.6002,
+    "altitude": 528.0,
+    "yaw": 56,
+    "groundSpeed": 21.2,
+    "battery": 99
+  },
+  {
+    "timestamp": 5700,
+    "latitude": 12.9773,
+    "longitude": 77.6003,
+    "altitude": 528.5,
+    "yaw": 57,
+    "groundSpeed": 21.4,
+    "battery": 99
+  },
+  {
+    "timestamp": 5800,
+    "latitude": 12.9774,
+    "longitude": 77.6004,
+    "altitude": 529.0,
+    "yaw": 58,
+    "groundSpeed": 21.6,
+    "battery": 99
+  },
+  {
+    "timestamp": 5900,
+    "latitude": 12.9775,
+    "longitude": 77.6005,
+    "altitude": 529.5,
+    "yaw": 59,
+    "groundSpeed": 21.8,
+    "battery": 99
+  },
+  {
+    "timestamp": 6000,
+    "latitude": 12.9776,
+    "longitude": 77.6006,
+    "altitude": 530.0,
+    "yaw": 60,
+    "groundSpeed": 22.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 6100,
+    "latitude": 12.9777,
+    "longitude": 77.6007,
+    "altitude": 530.5,
+    "yaw": 61,
+    "groundSpeed": 22.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 6200,
+    "latitude": 12.9778,
+    "longitude": 77.6008,
+    "altitude": 531.0,
+    "yaw": 62,
+    "groundSpeed": 22.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 6300,
+    "latitude": 12.9779,
+    "longitude": 77.6009,
+    "altitude": 531.5,
+    "yaw": 63,
+    "groundSpeed": 22.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 6400,
+    "latitude": 12.978,
+    "longitude": 77.601,
+    "altitude": 532.0,
+    "yaw": 64,
+    "groundSpeed": 22.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 6500,
+    "latitude": 12.9781,
+    "longitude": 77.6011,
+    "altitude": 532.5,
+    "yaw": 65,
+    "groundSpeed": 23.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 6600,
+    "latitude": 12.9782,
+    "longitude": 77.6012,
+    "altitude": 533.0,
+    "yaw": 66,
+    "groundSpeed": 23.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 6700,
+    "latitude": 12.9783,
+    "longitude": 77.6013,
+    "altitude": 533.5,
+    "yaw": 67,
+    "groundSpeed": 23.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 6800,
+    "latitude": 12.9784,
+    "longitude": 77.6014,
+    "altitude": 534.0,
+    "yaw": 68,
+    "groundSpeed": 23.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 6900,
+    "latitude": 12.9785,
+    "longitude": 77.6015,
+    "altitude": 534.5,
+    "yaw": 69,
+    "groundSpeed": 23.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 7000,
+    "latitude": 12.9786,
+    "longitude": 77.6016,
+    "altitude": 535.0,
+    "yaw": 70,
+    "groundSpeed": 24.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 7100,
+    "latitude": 12.9787,
+    "longitude": 77.6017,
+    "altitude": 535.5,
+    "yaw": 71,
+    "groundSpeed": 24.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 7200,
+    "latitude": 12.9788,
+    "longitude": 77.6018,
+    "altitude": 536.0,
+    "yaw": 72,
+    "groundSpeed": 24.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 7300,
+    "latitude": 12.9789,
+    "longitude": 77.6019,
+    "altitude": 536.5,
+    "yaw": 73,
+    "groundSpeed": 24.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 7400,
+    "latitude": 12.979,
+    "longitude": 77.602,
+    "altitude": 537.0,
+    "yaw": 74,
+    "groundSpeed": 24.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 7500,
+    "latitude": 12.9791,
+    "longitude": 77.6021,
+    "altitude": 537.5,
+    "yaw": 75,
+    "groundSpeed": 25.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 7600,
+    "latitude": 12.9792,
+    "longitude": 77.6022,
+    "altitude": 538.0,
+    "yaw": 76,
+    "groundSpeed": 25.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 7700,
+    "latitude": 12.9793,
+    "longitude": 77.6023,
+    "altitude": 538.5,
+    "yaw": 77,
+    "groundSpeed": 25.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 7800,
+    "latitude": 12.9794,
+    "longitude": 77.6024,
+    "altitude": 539.0,
+    "yaw": 78,
+    "groundSpeed": 25.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 7900,
+    "latitude": 12.9795,
+    "longitude": 77.6025,
+    "altitude": 539.5,
+    "yaw": 79,
+    "groundSpeed": 25.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 8000,
+    "latitude": 12.9796,
+    "longitude": 77.6026,
+    "altitude": 540.0,
+    "yaw": 80,
+    "groundSpeed": 26.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 8100,
+    "latitude": 12.9797,
+    "longitude": 77.6027,
+    "altitude": 540.5,
+    "yaw": 81,
+    "groundSpeed": 26.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 8200,
+    "latitude": 12.9798,
+    "longitude": 77.6028,
+    "altitude": 541.0,
+    "yaw": 82,
+    "groundSpeed": 26.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 8300,
+    "latitude": 12.9799,
+    "longitude": 77.6029,
+    "altitude": 541.5,
+    "yaw": 83,
+    "groundSpeed": 26.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 8400,
+    "latitude": 12.98,
+    "longitude": 77.603,
+    "altitude": 542.0,
+    "yaw": 84,
+    "groundSpeed": 26.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 8500,
+    "latitude": 12.9801,
+    "longitude": 77.6031,
+    "altitude": 542.5,
+    "yaw": 85,
+    "groundSpeed": 27.0,
+    "battery": 98
+  },
+  {
+    "timestamp": 8600,
+    "latitude": 12.9802,
+    "longitude": 77.6032,
+    "altitude": 543.0,
+    "yaw": 86,
+    "groundSpeed": 27.2,
+    "battery": 98
+  },
+  {
+    "timestamp": 8700,
+    "latitude": 12.9803,
+    "longitude": 77.6033,
+    "altitude": 543.5,
+    "yaw": 87,
+    "groundSpeed": 27.4,
+    "battery": 98
+  },
+  {
+    "timestamp": 8800,
+    "latitude": 12.9804,
+    "longitude": 77.6034,
+    "altitude": 544.0,
+    "yaw": 88,
+    "groundSpeed": 27.6,
+    "battery": 98
+  },
+  {
+    "timestamp": 8900,
+    "latitude": 12.9805,
+    "longitude": 77.6035,
+    "altitude": 544.5,
+    "yaw": 89,
+    "groundSpeed": 27.8,
+    "battery": 98
+  },
+  {
+    "timestamp": 9000,
+    "latitude": 12.9806,
+    "longitude": 77.6036,
+    "altitude": 545.0,
+    "yaw": 90,
+    "groundSpeed": 28.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 9100,
+    "latitude": 12.9807,
+    "longitude": 77.6037,
+    "altitude": 545.5,
+    "yaw": 91,
+    "groundSpeed": 28.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 9200,
+    "latitude": 12.9808,
+    "longitude": 77.6038,
+    "altitude": 546.0,
+    "yaw": 92,
+    "groundSpeed": 28.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 9300,
+    "latitude": 12.9809,
+    "longitude": 77.6039,
+    "altitude": 546.5,
+    "yaw": 93,
+    "groundSpeed": 28.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 9400,
+    "latitude": 12.981,
+    "longitude": 77.604,
+    "altitude": 547.0,
+    "yaw": 94,
+    "groundSpeed": 28.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 9500,
+    "latitude": 12.9811,
+    "longitude": 77.6041,
+    "altitude": 547.5,
+    "yaw": 95,
+    "groundSpeed": 29.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 9600,
+    "latitude": 12.9812,
+    "longitude": 77.6042,
+    "altitude": 548.0,
+    "yaw": 96,
+    "groundSpeed": 29.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 9700,
+    "latitude": 12.9813,
+    "longitude": 77.6043,
+    "altitude": 548.5,
+    "yaw": 97,
+    "groundSpeed": 29.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 9800,
+    "latitude": 12.9814,
+    "longitude": 77.6044,
+    "altitude": 549.0,
+    "yaw": 98,
+    "groundSpeed": 29.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 9900,
+    "latitude": 12.9815,
+    "longitude": 77.6045,
+    "altitude": 549.5,
+    "yaw": 99,
+    "groundSpeed": 29.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 10000,
+    "latitude": 12.9816,
+    "longitude": 77.6046,
+    "altitude": 550.0,
+    "yaw": 100,
+    "groundSpeed": 30.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 10100,
+    "latitude": 12.9817,
+    "longitude": 77.6047,
+    "altitude": 550.5,
+    "yaw": 101,
+    "groundSpeed": 30.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 10200,
+    "latitude": 12.9818,
+    "longitude": 77.6048,
+    "altitude": 551.0,
+    "yaw": 102,
+    "groundSpeed": 30.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 10300,
+    "latitude": 12.9819,
+    "longitude": 77.6049,
+    "altitude": 551.5,
+    "yaw": 103,
+    "groundSpeed": 30.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 10400,
+    "latitude": 12.982,
+    "longitude": 77.605,
+    "altitude": 552.0,
+    "yaw": 104,
+    "groundSpeed": 30.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 10500,
+    "latitude": 12.9821,
+    "longitude": 77.6051,
+    "altitude": 552.5,
+    "yaw": 105,
+    "groundSpeed": 31.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 10600,
+    "latitude": 12.9822,
+    "longitude": 77.6052,
+    "altitude": 553.0,
+    "yaw": 106,
+    "groundSpeed": 31.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 10700,
+    "latitude": 12.9823,
+    "longitude": 77.6053,
+    "altitude": 553.5,
+    "yaw": 107,
+    "groundSpeed": 31.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 10800,
+    "latitude": 12.9824,
+    "longitude": 77.6054,
+    "altitude": 554.0,
+    "yaw": 108,
+    "groundSpeed": 31.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 10900,
+    "latitude": 12.9825,
+    "longitude": 77.6055,
+    "altitude": 554.5,
+    "yaw": 109,
+    "groundSpeed": 31.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 11000,
+    "latitude": 12.9826,
+    "longitude": 77.6056,
+    "altitude": 555.0,
+    "yaw": 110,
+    "groundSpeed": 32.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 11100,
+    "latitude": 12.9827,
+    "longitude": 77.6057,
+    "altitude": 555.5,
+    "yaw": 111,
+    "groundSpeed": 32.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 11200,
+    "latitude": 12.9828,
+    "longitude": 77.6058,
+    "altitude": 556.0,
+    "yaw": 112,
+    "groundSpeed": 32.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 11300,
+    "latitude": 12.9829,
+    "longitude": 77.6059,
+    "altitude": 556.5,
+    "yaw": 113,
+    "groundSpeed": 32.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 11400,
+    "latitude": 12.983,
+    "longitude": 77.606,
+    "altitude": 557.0,
+    "yaw": 114,
+    "groundSpeed": 32.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 11500,
+    "latitude": 12.9831,
+    "longitude": 77.6061,
+    "altitude": 557.5,
+    "yaw": 115,
+    "groundSpeed": 33.0,
+    "battery": 97
+  },
+  {
+    "timestamp": 11600,
+    "latitude": 12.9832,
+    "longitude": 77.6062,
+    "altitude": 558.0,
+    "yaw": 116,
+    "groundSpeed": 33.2,
+    "battery": 97
+  },
+  {
+    "timestamp": 11700,
+    "latitude": 12.9833,
+    "longitude": 77.6063,
+    "altitude": 558.5,
+    "yaw": 117,
+    "groundSpeed": 33.4,
+    "battery": 97
+  },
+  {
+    "timestamp": 11800,
+    "latitude": 12.9834,
+    "longitude": 77.6064,
+    "altitude": 559.0,
+    "yaw": 118,
+    "groundSpeed": 33.6,
+    "battery": 97
+  },
+  {
+    "timestamp": 11900,
+    "latitude": 12.9835,
+    "longitude": 77.6065,
+    "altitude": 559.5,
+    "yaw": 119,
+    "groundSpeed": 33.8,
+    "battery": 97
+  },
+  {
+    "timestamp": 12000,
+    "latitude": 12.9836,
+    "longitude": 77.6066,
+    "altitude": 560.0,
+    "yaw": 120,
+    "groundSpeed": 34.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 12100,
+    "latitude": 12.9837,
+    "longitude": 77.6067,
+    "altitude": 560.5,
+    "yaw": 121,
+    "groundSpeed": 34.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 12200,
+    "latitude": 12.9838,
+    "longitude": 77.6068,
+    "altitude": 561.0,
+    "yaw": 122,
+    "groundSpeed": 34.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 12300,
+    "latitude": 12.9839,
+    "longitude": 77.6069,
+    "altitude": 561.5,
+    "yaw": 123,
+    "groundSpeed": 34.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 12400,
+    "latitude": 12.984,
+    "longitude": 77.607,
+    "altitude": 562.0,
+    "yaw": 124,
+    "groundSpeed": 34.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 12500,
+    "latitude": 12.9841,
+    "longitude": 77.6071,
+    "altitude": 562.5,
+    "yaw": 125,
+    "groundSpeed": 35.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 12600,
+    "latitude": 12.9842,
+    "longitude": 77.6072,
+    "altitude": 563.0,
+    "yaw": 126,
+    "groundSpeed": 35.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 12700,
+    "latitude": 12.9843,
+    "longitude": 77.6073,
+    "altitude": 563.5,
+    "yaw": 127,
+    "groundSpeed": 35.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 12800,
+    "latitude": 12.9844,
+    "longitude": 77.6074,
+    "altitude": 564.0,
+    "yaw": 128,
+    "groundSpeed": 35.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 12900,
+    "latitude": 12.9845,
+    "longitude": 77.6075,
+    "altitude": 564.5,
+    "yaw": 129,
+    "groundSpeed": 35.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 13000,
+    "latitude": 12.9846,
+    "longitude": 77.6076,
+    "altitude": 565.0,
+    "yaw": 130,
+    "groundSpeed": 36.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 13100,
+    "latitude": 12.9847,
+    "longitude": 77.6077,
+    "altitude": 565.5,
+    "yaw": 131,
+    "groundSpeed": 36.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 13200,
+    "latitude": 12.9848,
+    "longitude": 77.6078,
+    "altitude": 566.0,
+    "yaw": 132,
+    "groundSpeed": 36.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 13300,
+    "latitude": 12.9849,
+    "longitude": 77.6079,
+    "altitude": 566.5,
+    "yaw": 133,
+    "groundSpeed": 36.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 13400,
+    "latitude": 12.985,
+    "longitude": 77.608,
+    "altitude": 567.0,
+    "yaw": 134,
+    "groundSpeed": 36.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 13500,
+    "latitude": 12.9851,
+    "longitude": 77.6081,
+    "altitude": 567.5,
+    "yaw": 135,
+    "groundSpeed": 37.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 13600,
+    "latitude": 12.9852,
+    "longitude": 77.6082,
+    "altitude": 568.0,
+    "yaw": 136,
+    "groundSpeed": 37.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 13700,
+    "latitude": 12.9853,
+    "longitude": 77.6083,
+    "altitude": 568.5,
+    "yaw": 137,
+    "groundSpeed": 37.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 13800,
+    "latitude": 12.9854,
+    "longitude": 77.6084,
+    "altitude": 569.0,
+    "yaw": 138,
+    "groundSpeed": 37.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 13900,
+    "latitude": 12.9855,
+    "longitude": 77.6085,
+    "altitude": 569.5,
+    "yaw": 139,
+    "groundSpeed": 37.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 14000,
+    "latitude": 12.9856,
+    "longitude": 77.6086,
+    "altitude": 570.0,
+    "yaw": 140,
+    "groundSpeed": 38.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 14100,
+    "latitude": 12.9857,
+    "longitude": 77.6087,
+    "altitude": 570.5,
+    "yaw": 141,
+    "groundSpeed": 38.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 14200,
+    "latitude": 12.9858,
+    "longitude": 77.6088,
+    "altitude": 571.0,
+    "yaw": 142,
+    "groundSpeed": 38.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 14300,
+    "latitude": 12.9859,
+    "longitude": 77.6089,
+    "altitude": 571.5,
+    "yaw": 143,
+    "groundSpeed": 38.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 14400,
+    "latitude": 12.986,
+    "longitude": 77.609,
+    "altitude": 572.0,
+    "yaw": 144,
+    "groundSpeed": 38.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 14500,
+    "latitude": 12.9861,
+    "longitude": 77.6091,
+    "altitude": 572.5,
+    "yaw": 145,
+    "groundSpeed": 39.0,
+    "battery": 96
+  },
+  {
+    "timestamp": 14600,
+    "latitude": 12.9862,
+    "longitude": 77.6092,
+    "altitude": 573.0,
+    "yaw": 146,
+    "groundSpeed": 39.2,
+    "battery": 96
+  },
+  {
+    "timestamp": 14700,
+    "latitude": 12.9863,
+    "longitude": 77.6093,
+    "altitude": 573.5,
+    "yaw": 147,
+    "groundSpeed": 39.4,
+    "battery": 96
+  },
+  {
+    "timestamp": 14800,
+    "latitude": 12.9864,
+    "longitude": 77.6094,
+    "altitude": 574.0,
+    "yaw": 148,
+    "groundSpeed": 39.6,
+    "battery": 96
+  },
+  {
+    "timestamp": 14900,
+    "latitude": 12.9865,
+    "longitude": 77.6095,
+    "altitude": 574.5,
+    "yaw": 149,
+    "groundSpeed": 39.8,
+    "battery": 96
+  },
+  {
+    "timestamp": 15000,
+    "latitude": 12.9866,
+    "longitude": 77.6096,
+    "altitude": 575.0,
+    "yaw": 150,
+    "groundSpeed": 40.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 15100,
+    "latitude": 12.9867,
+    "longitude": 77.6097,
+    "altitude": 575.5,
+    "yaw": 151,
+    "groundSpeed": 40.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 15200,
+    "latitude": 12.9868,
+    "longitude": 77.6098,
+    "altitude": 576.0,
+    "yaw": 152,
+    "groundSpeed": 40.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 15300,
+    "latitude": 12.9869,
+    "longitude": 77.6099,
+    "altitude": 576.5,
+    "yaw": 153,
+    "groundSpeed": 40.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 15400,
+    "latitude": 12.987,
+    "longitude": 77.61,
+    "altitude": 577.0,
+    "yaw": 154,
+    "groundSpeed": 40.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 15500,
+    "latitude": 12.9871,
+    "longitude": 77.6101,
+    "altitude": 577.5,
+    "yaw": 155,
+    "groundSpeed": 41.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 15600,
+    "latitude": 12.9872,
+    "longitude": 77.6102,
+    "altitude": 578.0,
+    "yaw": 156,
+    "groundSpeed": 41.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 15700,
+    "latitude": 12.9873,
+    "longitude": 77.6103,
+    "altitude": 578.5,
+    "yaw": 157,
+    "groundSpeed": 41.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 15800,
+    "latitude": 12.9874,
+    "longitude": 77.6104,
+    "altitude": 579.0,
+    "yaw": 158,
+    "groundSpeed": 41.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 15900,
+    "latitude": 12.9875,
+    "longitude": 77.6105,
+    "altitude": 579.5,
+    "yaw": 159,
+    "groundSpeed": 41.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 16000,
+    "latitude": 12.9876,
+    "longitude": 77.6106,
+    "altitude": 580.0,
+    "yaw": 160,
+    "groundSpeed": 42.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 16100,
+    "latitude": 12.9877,
+    "longitude": 77.6107,
+    "altitude": 580.5,
+    "yaw": 161,
+    "groundSpeed": 42.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 16200,
+    "latitude": 12.9878,
+    "longitude": 77.6108,
+    "altitude": 581.0,
+    "yaw": 162,
+    "groundSpeed": 42.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 16300,
+    "latitude": 12.9879,
+    "longitude": 77.6109,
+    "altitude": 581.5,
+    "yaw": 163,
+    "groundSpeed": 42.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 16400,
+    "latitude": 12.988,
+    "longitude": 77.611,
+    "altitude": 582.0,
+    "yaw": 164,
+    "groundSpeed": 42.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 16500,
+    "latitude": 12.9881,
+    "longitude": 77.6111,
+    "altitude": 582.5,
+    "yaw": 165,
+    "groundSpeed": 43.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 16600,
+    "latitude": 12.9882,
+    "longitude": 77.6112,
+    "altitude": 583.0,
+    "yaw": 166,
+    "groundSpeed": 43.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 16700,
+    "latitude": 12.9883,
+    "longitude": 77.6113,
+    "altitude": 583.5,
+    "yaw": 167,
+    "groundSpeed": 43.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 16800,
+    "latitude": 12.9884,
+    "longitude": 77.6114,
+    "altitude": 584.0,
+    "yaw": 168,
+    "groundSpeed": 43.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 16900,
+    "latitude": 12.9885,
+    "longitude": 77.6115,
+    "altitude": 584.5,
+    "yaw": 169,
+    "groundSpeed": 43.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 17000,
+    "latitude": 12.9886,
+    "longitude": 77.6116,
+    "altitude": 585.0,
+    "yaw": 170,
+    "groundSpeed": 44.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 17100,
+    "latitude": 12.9887,
+    "longitude": 77.6117,
+    "altitude": 585.5,
+    "yaw": 171,
+    "groundSpeed": 44.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 17200,
+    "latitude": 12.9888,
+    "longitude": 77.6118,
+    "altitude": 586.0,
+    "yaw": 172,
+    "groundSpeed": 44.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 17300,
+    "latitude": 12.9889,
+    "longitude": 77.6119,
+    "altitude": 586.5,
+    "yaw": 173,
+    "groundSpeed": 44.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 17400,
+    "latitude": 12.989,
+    "longitude": 77.612,
+    "altitude": 587.0,
+    "yaw": 174,
+    "groundSpeed": 44.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 17500,
+    "latitude": 12.9891,
+    "longitude": 77.6121,
+    "altitude": 587.5,
+    "yaw": 175,
+    "groundSpeed": 45.0,
+    "battery": 95
+  },
+  {
+    "timestamp": 17600,
+    "latitude": 12.9892,
+    "longitude": 77.6122,
+    "altitude": 588.0,
+    "yaw": 176,
+    "groundSpeed": 45.2,
+    "battery": 95
+  },
+  {
+    "timestamp": 17700,
+    "latitude": 12.9893,
+    "longitude": 77.6123,
+    "altitude": 588.5,
+    "yaw": 177,
+    "groundSpeed": 45.4,
+    "battery": 95
+  },
+  {
+    "timestamp": 17800,
+    "latitude": 12.9894,
+    "longitude": 77.6124,
+    "altitude": 589.0,
+    "yaw": 178,
+    "groundSpeed": 45.6,
+    "battery": 95
+  },
+  {
+    "timestamp": 17900,
+    "latitude": 12.9895,
+    "longitude": 77.6125,
+    "altitude": 589.5,
+    "yaw": 179,
+    "groundSpeed": 45.8,
+    "battery": 95
+  },
+  {
+    "timestamp": 18000,
+    "latitude": 12.9896,
+    "longitude": 77.6126,
+    "altitude": 590.0,
+    "yaw": 180,
+    "groundSpeed": 46.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 18100,
+    "latitude": 12.9897,
+    "longitude": 77.6127,
+    "altitude": 590.5,
+    "yaw": 181,
+    "groundSpeed": 46.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 18200,
+    "latitude": 12.9898,
+    "longitude": 77.6128,
+    "altitude": 591.0,
+    "yaw": 182,
+    "groundSpeed": 46.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 18300,
+    "latitude": 12.9899,
+    "longitude": 77.6129,
+    "altitude": 591.5,
+    "yaw": 183,
+    "groundSpeed": 46.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 18400,
+    "latitude": 12.99,
+    "longitude": 77.613,
+    "altitude": 592.0,
+    "yaw": 184,
+    "groundSpeed": 46.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 18500,
+    "latitude": 12.9901,
+    "longitude": 77.6131,
+    "altitude": 592.5,
+    "yaw": 185,
+    "groundSpeed": 47.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 18600,
+    "latitude": 12.9902,
+    "longitude": 77.6132,
+    "altitude": 593.0,
+    "yaw": 186,
+    "groundSpeed": 47.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 18700,
+    "latitude": 12.9903,
+    "longitude": 77.6133,
+    "altitude": 593.5,
+    "yaw": 187,
+    "groundSpeed": 47.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 18800,
+    "latitude": 12.9904,
+    "longitude": 77.6134,
+    "altitude": 594.0,
+    "yaw": 188,
+    "groundSpeed": 47.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 18900,
+    "latitude": 12.9905,
+    "longitude": 77.6135,
+    "altitude": 594.5,
+    "yaw": 189,
+    "groundSpeed": 47.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 19000,
+    "latitude": 12.9906,
+    "longitude": 77.6136,
+    "altitude": 595.0,
+    "yaw": 190,
+    "groundSpeed": 48.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 19100,
+    "latitude": 12.9907,
+    "longitude": 77.6137,
+    "altitude": 595.5,
+    "yaw": 191,
+    "groundSpeed": 48.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 19200,
+    "latitude": 12.9908,
+    "longitude": 77.6138,
+    "altitude": 596.0,
+    "yaw": 192,
+    "groundSpeed": 48.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 19300,
+    "latitude": 12.9909,
+    "longitude": 77.6139,
+    "altitude": 596.5,
+    "yaw": 193,
+    "groundSpeed": 48.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 19400,
+    "latitude": 12.991,
+    "longitude": 77.614,
+    "altitude": 597.0,
+    "yaw": 194,
+    "groundSpeed": 48.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 19500,
+    "latitude": 12.9911,
+    "longitude": 77.6141,
+    "altitude": 597.5,
+    "yaw": 195,
+    "groundSpeed": 49.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 19600,
+    "latitude": 12.9912,
+    "longitude": 77.6142,
+    "altitude": 598.0,
+    "yaw": 196,
+    "groundSpeed": 49.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 19700,
+    "latitude": 12.9913,
+    "longitude": 77.6143,
+    "altitude": 598.5,
+    "yaw": 197,
+    "groundSpeed": 49.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 19800,
+    "latitude": 12.9914,
+    "longitude": 77.6144,
+    "altitude": 599.0,
+    "yaw": 198,
+    "groundSpeed": 49.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 19900,
+    "latitude": 12.9915,
+    "longitude": 77.6145,
+    "altitude": 599.5,
+    "yaw": 199,
+    "groundSpeed": 49.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 20000,
+    "latitude": 12.9916,
+    "longitude": 77.6146,
+    "altitude": 600.0,
+    "yaw": 200,
+    "groundSpeed": 50.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 20100,
+    "latitude": 12.9917,
+    "longitude": 77.6147,
+    "altitude": 600.5,
+    "yaw": 201,
+    "groundSpeed": 50.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 20200,
+    "latitude": 12.9918,
+    "longitude": 77.6148,
+    "altitude": 601.0,
+    "yaw": 202,
+    "groundSpeed": 50.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 20300,
+    "latitude": 12.9919,
+    "longitude": 77.6149,
+    "altitude": 601.5,
+    "yaw": 203,
+    "groundSpeed": 50.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 20400,
+    "latitude": 12.992,
+    "longitude": 77.615,
+    "altitude": 602.0,
+    "yaw": 204,
+    "groundSpeed": 50.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 20500,
+    "latitude": 12.9921,
+    "longitude": 77.6151,
+    "altitude": 602.5,
+    "yaw": 205,
+    "groundSpeed": 51.0,
+    "battery": 94
+  },
+  {
+    "timestamp": 20600,
+    "latitude": 12.9922,
+    "longitude": 77.6152,
+    "altitude": 603.0,
+    "yaw": 206,
+    "groundSpeed": 51.2,
+    "battery": 94
+  },
+  {
+    "timestamp": 20700,
+    "latitude": 12.9923,
+    "longitude": 77.6153,
+    "altitude": 603.5,
+    "yaw": 207,
+    "groundSpeed": 51.4,
+    "battery": 94
+  },
+  {
+    "timestamp": 20800,
+    "latitude": 12.9924,
+    "longitude": 77.6154,
+    "altitude": 604.0,
+    "yaw": 208,
+    "groundSpeed": 51.6,
+    "battery": 94
+  },
+  {
+    "timestamp": 20900,
+    "latitude": 12.9925,
+    "longitude": 77.6155,
+    "altitude": 604.5,
+    "yaw": 209,
+    "groundSpeed": 51.8,
+    "battery": 94
+  },
+  {
+    "timestamp": 21000,
+    "latitude": 12.9926,
+    "longitude": 77.6156,
+    "altitude": 605.0,
+    "yaw": 210,
+    "groundSpeed": 52.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 21100,
+    "latitude": 12.9927,
+    "longitude": 77.6157,
+    "altitude": 605.5,
+    "yaw": 211,
+    "groundSpeed": 52.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 21200,
+    "latitude": 12.9928,
+    "longitude": 77.6158,
+    "altitude": 606.0,
+    "yaw": 212,
+    "groundSpeed": 52.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 21300,
+    "latitude": 12.9929,
+    "longitude": 77.6159,
+    "altitude": 606.5,
+    "yaw": 213,
+    "groundSpeed": 52.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 21400,
+    "latitude": 12.993,
+    "longitude": 77.616,
+    "altitude": 607.0,
+    "yaw": 214,
+    "groundSpeed": 52.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 21500,
+    "latitude": 12.9931,
+    "longitude": 77.6161,
+    "altitude": 607.5,
+    "yaw": 215,
+    "groundSpeed": 53.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 21600,
+    "latitude": 12.9932,
+    "longitude": 77.6162,
+    "altitude": 608.0,
+    "yaw": 216,
+    "groundSpeed": 53.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 21700,
+    "latitude": 12.9933,
+    "longitude": 77.6163,
+    "altitude": 608.5,
+    "yaw": 217,
+    "groundSpeed": 53.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 21800,
+    "latitude": 12.9934,
+    "longitude": 77.6164,
+    "altitude": 609.0,
+    "yaw": 218,
+    "groundSpeed": 53.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 21900,
+    "latitude": 12.9935,
+    "longitude": 77.6165,
+    "altitude": 609.5,
+    "yaw": 219,
+    "groundSpeed": 53.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 22000,
+    "latitude": 12.9936,
+    "longitude": 77.6166,
+    "altitude": 610.0,
+    "yaw": 220,
+    "groundSpeed": 54.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 22100,
+    "latitude": 12.9937,
+    "longitude": 77.6167,
+    "altitude": 610.5,
+    "yaw": 221,
+    "groundSpeed": 54.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 22200,
+    "latitude": 12.9938,
+    "longitude": 77.6168,
+    "altitude": 611.0,
+    "yaw": 222,
+    "groundSpeed": 54.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 22300,
+    "latitude": 12.9939,
+    "longitude": 77.6169,
+    "altitude": 611.5,
+    "yaw": 223,
+    "groundSpeed": 54.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 22400,
+    "latitude": 12.994,
+    "longitude": 77.617,
+    "altitude": 612.0,
+    "yaw": 224,
+    "groundSpeed": 54.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 22500,
+    "latitude": 12.9941,
+    "longitude": 77.6171,
+    "altitude": 612.5,
+    "yaw": 225,
+    "groundSpeed": 55.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 22600,
+    "latitude": 12.9942,
+    "longitude": 77.6172,
+    "altitude": 613.0,
+    "yaw": 226,
+    "groundSpeed": 55.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 22700,
+    "latitude": 12.9943,
+    "longitude": 77.6173,
+    "altitude": 613.5,
+    "yaw": 227,
+    "groundSpeed": 55.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 22800,
+    "latitude": 12.9944,
+    "longitude": 77.6174,
+    "altitude": 614.0,
+    "yaw": 228,
+    "groundSpeed": 55.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 22900,
+    "latitude": 12.9945,
+    "longitude": 77.6175,
+    "altitude": 614.5,
+    "yaw": 229,
+    "groundSpeed": 55.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 23000,
+    "latitude": 12.9946,
+    "longitude": 77.6176,
+    "altitude": 615.0,
+    "yaw": 230,
+    "groundSpeed": 56.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 23100,
+    "latitude": 12.9947,
+    "longitude": 77.6177,
+    "altitude": 615.5,
+    "yaw": 231,
+    "groundSpeed": 56.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 23200,
+    "latitude": 12.9948,
+    "longitude": 77.6178,
+    "altitude": 616.0,
+    "yaw": 232,
+    "groundSpeed": 56.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 23300,
+    "latitude": 12.9949,
+    "longitude": 77.6179,
+    "altitude": 616.5,
+    "yaw": 233,
+    "groundSpeed": 56.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 23400,
+    "latitude": 12.995,
+    "longitude": 77.618,
+    "altitude": 617.0,
+    "yaw": 234,
+    "groundSpeed": 56.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 23500,
+    "latitude": 12.9951,
+    "longitude": 77.6181,
+    "altitude": 617.5,
+    "yaw": 235,
+    "groundSpeed": 57.0,
+    "battery": 93
+  },
+  {
+    "timestamp": 23600,
+    "latitude": 12.9952,
+    "longitude": 77.6182,
+    "altitude": 618.0,
+    "yaw": 236,
+    "groundSpeed": 57.2,
+    "battery": 93
+  },
+  {
+    "timestamp": 23700,
+    "latitude": 12.9953,
+    "longitude": 77.6183,
+    "altitude": 618.5,
+    "yaw": 237,
+    "groundSpeed": 57.4,
+    "battery": 93
+  },
+  {
+    "timestamp": 23800,
+    "latitude": 12.9954,
+    "longitude": 77.6184,
+    "altitude": 619.0,
+    "yaw": 238,
+    "groundSpeed": 57.6,
+    "battery": 93
+  },
+  {
+    "timestamp": 23900,
+    "latitude": 12.9955,
+    "longitude": 77.6185,
+    "altitude": 619.5,
+    "yaw": 239,
+    "groundSpeed": 57.8,
+    "battery": 93
+  },
+  {
+    "timestamp": 24000,
+    "latitude": 12.9956,
+    "longitude": 77.6186,
+    "altitude": 620.0,
+    "yaw": 240,
+    "groundSpeed": 58.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 24100,
+    "latitude": 12.9957,
+    "longitude": 77.6187,
+    "altitude": 620.5,
+    "yaw": 241,
+    "groundSpeed": 58.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 24200,
+    "latitude": 12.9958,
+    "longitude": 77.6188,
+    "altitude": 621.0,
+    "yaw": 242,
+    "groundSpeed": 58.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 24300,
+    "latitude": 12.9959,
+    "longitude": 77.6189,
+    "altitude": 621.5,
+    "yaw": 243,
+    "groundSpeed": 58.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 24400,
+    "latitude": 12.996,
+    "longitude": 77.619,
+    "altitude": 622.0,
+    "yaw": 244,
+    "groundSpeed": 58.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 24500,
+    "latitude": 12.9961,
+    "longitude": 77.6191,
+    "altitude": 622.5,
+    "yaw": 245,
+    "groundSpeed": 59.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 24600,
+    "latitude": 12.9962,
+    "longitude": 77.6192,
+    "altitude": 623.0,
+    "yaw": 246,
+    "groundSpeed": 59.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 24700,
+    "latitude": 12.9963,
+    "longitude": 77.6193,
+    "altitude": 623.5,
+    "yaw": 247,
+    "groundSpeed": 59.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 24800,
+    "latitude": 12.9964,
+    "longitude": 77.6194,
+    "altitude": 624.0,
+    "yaw": 248,
+    "groundSpeed": 59.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 24900,
+    "latitude": 12.9965,
+    "longitude": 77.6195,
+    "altitude": 624.5,
+    "yaw": 249,
+    "groundSpeed": 59.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 25000,
+    "latitude": 12.9966,
+    "longitude": 77.6196,
+    "altitude": 625.0,
+    "yaw": 250,
+    "groundSpeed": 60.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 25100,
+    "latitude": 12.9967,
+    "longitude": 77.6197,
+    "altitude": 625.5,
+    "yaw": 251,
+    "groundSpeed": 60.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 25200,
+    "latitude": 12.9968,
+    "longitude": 77.6198,
+    "altitude": 626.0,
+    "yaw": 252,
+    "groundSpeed": 60.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 25300,
+    "latitude": 12.9969,
+    "longitude": 77.6199,
+    "altitude": 626.5,
+    "yaw": 253,
+    "groundSpeed": 60.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 25400,
+    "latitude": 12.997,
+    "longitude": 77.62,
+    "altitude": 627.0,
+    "yaw": 254,
+    "groundSpeed": 60.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 25500,
+    "latitude": 12.9971,
+    "longitude": 77.6201,
+    "altitude": 627.5,
+    "yaw": 255,
+    "groundSpeed": 61.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 25600,
+    "latitude": 12.9972,
+    "longitude": 77.6202,
+    "altitude": 628.0,
+    "yaw": 256,
+    "groundSpeed": 61.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 25700,
+    "latitude": 12.9973,
+    "longitude": 77.6203,
+    "altitude": 628.5,
+    "yaw": 257,
+    "groundSpeed": 61.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 25800,
+    "latitude": 12.9974,
+    "longitude": 77.6204,
+    "altitude": 629.0,
+    "yaw": 258,
+    "groundSpeed": 61.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 25900,
+    "latitude": 12.9975,
+    "longitude": 77.6205,
+    "altitude": 629.5,
+    "yaw": 259,
+    "groundSpeed": 61.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 26000,
+    "latitude": 12.9976,
+    "longitude": 77.6206,
+    "altitude": 630.0,
+    "yaw": 260,
+    "groundSpeed": 62.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 26100,
+    "latitude": 12.9977,
+    "longitude": 77.6207,
+    "altitude": 630.5,
+    "yaw": 261,
+    "groundSpeed": 62.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 26200,
+    "latitude": 12.9978,
+    "longitude": 77.6208,
+    "altitude": 631.0,
+    "yaw": 262,
+    "groundSpeed": 62.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 26300,
+    "latitude": 12.9979,
+    "longitude": 77.6209,
+    "altitude": 631.5,
+    "yaw": 263,
+    "groundSpeed": 62.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 26400,
+    "latitude": 12.998,
+    "longitude": 77.621,
+    "altitude": 632.0,
+    "yaw": 264,
+    "groundSpeed": 62.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 26500,
+    "latitude": 12.9981,
+    "longitude": 77.6211,
+    "altitude": 632.5,
+    "yaw": 265,
+    "groundSpeed": 63.0,
+    "battery": 92
+  },
+  {
+    "timestamp": 26600,
+    "latitude": 12.9982,
+    "longitude": 77.6212,
+    "altitude": 633.0,
+    "yaw": 266,
+    "groundSpeed": 63.2,
+    "battery": 92
+  },
+  {
+    "timestamp": 26700,
+    "latitude": 12.9983,
+    "longitude": 77.6213,
+    "altitude": 633.5,
+    "yaw": 267,
+    "groundSpeed": 63.4,
+    "battery": 92
+  },
+  {
+    "timestamp": 26800,
+    "latitude": 12.9984,
+    "longitude": 77.6214,
+    "altitude": 634.0,
+    "yaw": 268,
+    "groundSpeed": 63.6,
+    "battery": 92
+  },
+  {
+    "timestamp": 26900,
+    "latitude": 12.9985,
+    "longitude": 77.6215,
+    "altitude": 634.5,
+    "yaw": 269,
+    "groundSpeed": 63.8,
+    "battery": 92
+  },
+  {
+    "timestamp": 27000,
+    "latitude": 12.9986,
+    "longitude": 77.6216,
+    "altitude": 635.0,
+    "yaw": 270,
+    "groundSpeed": 64.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 27100,
+    "latitude": 12.9987,
+    "longitude": 77.6217,
+    "altitude": 635.5,
+    "yaw": 271,
+    "groundSpeed": 64.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 27200,
+    "latitude": 12.9988,
+    "longitude": 77.6218,
+    "altitude": 636.0,
+    "yaw": 272,
+    "groundSpeed": 64.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 27300,
+    "latitude": 12.9989,
+    "longitude": 77.6219,
+    "altitude": 636.5,
+    "yaw": 273,
+    "groundSpeed": 64.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 27400,
+    "latitude": 12.999,
+    "longitude": 77.622,
+    "altitude": 637.0,
+    "yaw": 274,
+    "groundSpeed": 64.8,
+    "battery": 91
+  },
+  {
+    "timestamp": 27500,
+    "latitude": 12.9991,
+    "longitude": 77.6221,
+    "altitude": 637.5,
+    "yaw": 275,
+    "groundSpeed": 65.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 27600,
+    "latitude": 12.9992,
+    "longitude": 77.6222,
+    "altitude": 638.0,
+    "yaw": 276,
+    "groundSpeed": 65.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 27700,
+    "latitude": 12.9993,
+    "longitude": 77.6223,
+    "altitude": 638.5,
+    "yaw": 277,
+    "groundSpeed": 65.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 27800,
+    "latitude": 12.9994,
+    "longitude": 77.6224,
+    "altitude": 639.0,
+    "yaw": 278,
+    "groundSpeed": 65.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 27900,
+    "latitude": 12.9995,
+    "longitude": 77.6225,
+    "altitude": 639.5,
+    "yaw": 279,
+    "groundSpeed": 65.8,
+    "battery": 91
+  },
+  {
+    "timestamp": 28000,
+    "latitude": 12.9996,
+    "longitude": 77.6226,
+    "altitude": 640.0,
+    "yaw": 280,
+    "groundSpeed": 66.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 28100,
+    "latitude": 12.9997,
+    "longitude": 77.6227,
+    "altitude": 640.5,
+    "yaw": 281,
+    "groundSpeed": 66.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 28200,
+    "latitude": 12.9998,
+    "longitude": 77.6228,
+    "altitude": 641.0,
+    "yaw": 282,
+    "groundSpeed": 66.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 28300,
+    "latitude": 12.9999,
+    "longitude": 77.6229,
+    "altitude": 641.5,
+    "yaw": 283,
+    "groundSpeed": 66.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 28400,
+    "latitude": 13.0,
+    "longitude": 77.623,
+    "altitude": 642.0,
+    "yaw": 284,
+    "groundSpeed": 66.8,
+    "battery": 91
+  },
+  {
+    "timestamp": 28500,
+    "latitude": 13.0001,
+    "longitude": 77.6231,
+    "altitude": 642.5,
+    "yaw": 285,
+    "groundSpeed": 67.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 28600,
+    "latitude": 13.0002,
+    "longitude": 77.6232,
+    "altitude": 643.0,
+    "yaw": 286,
+    "groundSpeed": 67.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 28700,
+    "latitude": 13.0003,
+    "longitude": 77.6233,
+    "altitude": 643.5,
+    "yaw": 287,
+    "groundSpeed": 67.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 28800,
+    "latitude": 13.0004,
+    "longitude": 77.6234,
+    "altitude": 644.0,
+    "yaw": 288,
+    "groundSpeed": 67.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 28900,
+    "latitude": 13.0005,
+    "longitude": 77.6235,
+    "altitude": 644.5,
+    "yaw": 289,
+    "groundSpeed": 67.8,
+    "battery": 91
+  },
+  {
+    "timestamp": 29000,
+    "latitude": 13.0006,
+    "longitude": 77.6236,
+    "altitude": 645.0,
+    "yaw": 290,
+    "groundSpeed": 68.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 29100,
+    "latitude": 13.0007,
+    "longitude": 77.6237,
+    "altitude": 645.5,
+    "yaw": 291,
+    "groundSpeed": 68.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 29200,
+    "latitude": 13.0008,
+    "longitude": 77.6238,
+    "altitude": 646.0,
+    "yaw": 292,
+    "groundSpeed": 68.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 29300,
+    "latitude": 13.0009,
+    "longitude": 77.6239,
+    "altitude": 646.5,
+    "yaw": 293,
+    "groundSpeed": 68.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 29400,
+    "latitude": 13.001,
+    "longitude": 77.624,
+    "altitude": 647.0,
+    "yaw": 294,
+    "groundSpeed": 68.8,
+    "battery": 91
+  },
+  {
+    "timestamp": 29500,
+    "latitude": 13.0011,
+    "longitude": 77.6241,
+    "altitude": 647.5,
+    "yaw": 295,
+    "groundSpeed": 69.0,
+    "battery": 91
+  },
+  {
+    "timestamp": 29600,
+    "latitude": 13.0012,
+    "longitude": 77.6242,
+    "altitude": 648.0,
+    "yaw": 296,
+    "groundSpeed": 69.2,
+    "battery": 91
+  },
+  {
+    "timestamp": 29700,
+    "latitude": 13.0013,
+    "longitude": 77.6243,
+    "altitude": 648.5,
+    "yaw": 297,
+    "groundSpeed": 69.4,
+    "battery": 91
+  },
+  {
+    "timestamp": 29800,
+    "latitude": 13.0014,
+    "longitude": 77.6244,
+    "altitude": 649.0,
+    "yaw": 298,
+    "groundSpeed": 69.6,
+    "battery": 91
+  },
+  {
+    "timestamp": 29900,
+    "latitude": 13.0015,
+    "longitude": 77.6245,
+    "altitude": 649.5,
+    "yaw": 299,
+    "groundSpeed": 69.8,
+    "battery": 91
+  }
+]
