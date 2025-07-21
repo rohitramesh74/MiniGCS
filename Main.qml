@@ -126,20 +126,27 @@ ApplicationWindow {
 
 
         // Map Panel - Bottom Right
-        Rectangle {
+        // Rectangle {
+        //     id: mapPanel
+        //     visible: showMap
+        //     width: 300; height: 200
+        //     color: "darkgreen"
+        //     anchors.bottom: parent.bottom
+        //     anchors.right: parent.right
+        //     anchors.margins: 20
+
+        //     Text {
+        //         anchors.centerIn: parent
+        //         text: "Map Panel"
+        //         color: "white"
+        //     }
+        // }
+        MapPanel {
             id: mapPanel
             visible: showMap
-            width: 300; height: 200
-            color: "darkgreen"
             anchors.bottom: parent.bottom
             anchors.right: parent.right
             anchors.margins: 20
-
-            Text {
-                anchors.centerIn: parent
-                text: "Map Panel"
-                color: "white"
-            }
         }
     }
 

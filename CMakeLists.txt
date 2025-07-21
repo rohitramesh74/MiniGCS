@@ -36,6 +36,7 @@ qt_add_qml_module(appMiniGCS
         SOURCES src/models/telemetrymodel.h src/models/telemetrymodel.cpp
         SOURCES src/controllers/telemetrycontroller.h src/controllers/telemetrycontroller.cpp
         RESOURCES resources.qrc
+        QML_FILES qml/panels/MapPanel.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.

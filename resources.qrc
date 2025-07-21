@@ -1,5 +1,6 @@
 <RCC>
     <qresource prefix="/">
         <file>data/telemetry_sample.json</file>
+        <file>assets/icon/drone_icon.png</file>
     </qresource>
 </RCC>
